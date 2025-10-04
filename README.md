@@ -23,7 +23,7 @@ Cloud-Based Network Traffic Analysis System with REST API
 ### 1. Install Dependencies
 
 ```bash
-cd /Users/puneetgani/Documents/hackathon/netsentry
+cd /Users/poojagani/Documents/netsentry
 pip install -r requirements.txt
 ```
 
